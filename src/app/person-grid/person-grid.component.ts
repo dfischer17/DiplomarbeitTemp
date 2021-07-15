@@ -12,7 +12,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
   {lastname: "Müller", firstname: "Jonas", age: 21, address: "Schulstraße 3"},
   {lastname: "Schmidt", firstname: "Lukas", age: 45, address: "Ziegeleistraße 5"},
   {lastname: "Fischer", firstname: "Julian", age: 51, address: "Bäckergasse 22"},
-  {lastname: "Wagner", firstname: "Thomas", age: 75, address: "Wintersberg 17"},
+  {lastname: "Wagner", firstname: "Thomas", age: 75, address: "Wintersberg 12"},
 ];
 
 @Component({
